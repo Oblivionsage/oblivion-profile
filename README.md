@@ -30,3 +30,4 @@ If it doesn’t end in RCE or CVE, it’s not finished.
 ###  Contact
 - HackerOne: [oblivionsage](https://hackerone.com/oblivionsage)
 - GitHub: [Oblivionsage](https://github.com/Oblivionsage)
+- X: [theoblivionsage](https://x.com/theoblivionsage)
